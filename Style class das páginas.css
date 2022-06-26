@@ -1,0 +1,168 @@
+﻿td 
+{
+    border: solid;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+table 
+{
+    width: 1500px;
+    height: 750px;
+    border: solid;
+    background-color: aliceblue;
+    
+}
+
+.ba {
+    width: 200px;
+    height: 100px;
+}
+
+.noruega 
+{
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: rgb(21, 21, 120);
+    border-width: 10px;
+    background-color: rgb(211, 33, 33);
+    padding: 20px;
+    margin: 0px;
+    
+}
+
+.alemanha 
+{
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: rgb(211, 33, 33);
+    border-width: 10px;
+    background-color: yellow;
+    padding: 20px;
+    margin: 0px;
+}
+
+.china 
+{
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
+    background-color: red;
+    padding: 20px;
+    margin: 0px;
+}
+
+.eua 
+{
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: rgb(211, 33, 33);
+    border-width: 10px;
+    background-color: rgb(72, 77, 255);
+    padding: 20px;
+    margin: 0px;
+    color: white;
+    
+}
+.suecia {
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
+    background-color: blue;
+    padding: 20px;
+    margin: 0px;
+    color: white;
+    
+}
+
+.pb {
+    width: 750px;
+    height: 325px;
+    border-style: solid;
+    border-color: rgb(56, 56, 174);
+    border-width: 10px;
+    background-color: red;
+    padding: 20px;
+    margin: 0px;
+
+}
+.me 
+{
+    width: 100px;
+    height: 100px;
+}
+
+.b1 
+{
+    background-image: url(img/monte.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+.b2
+{
+    background-image: url(img/noruega-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b3 
+{
+    background-image: url(img/china-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b4 
+{
+    background-image: url(img/alemanha-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b5 
+{
+    background-image: url(img/eua-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.b6
+{
+    background-image: url(img/suecia-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b7
+{
+    background-image: url(img/pb-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+a 
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: black;
+}
+
+a:link
+{
+   color: black;
+}
